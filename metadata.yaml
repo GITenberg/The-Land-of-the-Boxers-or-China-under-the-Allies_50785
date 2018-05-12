@@ -1,4 +1,8 @@
 _repo: The-Land-of-the-Boxers-or-China-under-the-Allies_50785
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50785-h/images/cover.jpg
 creator:
   author:
     agent_name: Casserly, Gordon
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '5361'
     url: http://www.gutenberg.org/2009/agents/5361
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50785#The-Land-of-the-Boxers-or-China-under-the-Allies
 gutenberg_issued: '2015-12-28'
 gutenberg_type: Text
 identifiers:
